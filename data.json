@@ -1,0 +1,15 @@
+{
+  "name": "My 3D Cube",
+  "description": "This is a unique 3D cube in the metaverse.",
+  "image": "https://my-metadata-server.com/images/cube.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    }
+  ]
+}
