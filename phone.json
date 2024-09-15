@@ -2,7 +2,7 @@
   "id": 1,
   "name": "3D Phone",
   "description": "A realistic 3D model of a phone with detailed textures and interactive elements.",
-  "image": "https://mohdarif8299.github.io/UnityMetaverseObjects/laptop.png",
+  "image": "https://mohdarif8299.github.io/UnityMetaverseObjects/phone.jpg",
   "model": "https://example.com/assets/phone.glb",  // Replace with the actual URL of the 3D model
   "properties": {
     "size": {
