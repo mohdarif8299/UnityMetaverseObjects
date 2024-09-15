@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "name": "3D Phone",
+  "description": "A realistic 3D model of a phone with detailed textures and interactive elements.",
+  "image": "https://mohdarif8299.github.io/UnityMetaverseObjects/printer.png",
+  "model": "https://example.com/assets/phone.glb",  // Replace with the actual URL of the 3D model
+  "properties": {
+    "size": {
+      "width": 30.0,
+      "height": 20.0,
+      "depth": 2.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "materials": [
+      {
+        "name": "Metallic Surface",
+        "color": "#C0C0C0",
+        "texture": "https://example.com/textures/metallic-texture.png"  // Replace with actual texture URL if applicable
+      },
+      {
+        "name": "Screen",
+        "color": "#000000",
+        "texture": "https://example.com/textures/screen-texture.png"  // Replace with actual texture URL if applicable
+      }
+    ],
+    "animations": [
+      {
+        "name": "Open Lid",
+        "duration": 1.5,
+        "type": "one-shot"
+      }
+    ],
+    "attributes": [
+      {
+        "trait_type": "Condition",
+        "value": "New"
+      },
+      {
+        "trait_type": "Brand",
+        "value": "Generic"
+      }
+    ]
+  }
+}
