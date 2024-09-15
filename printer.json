@@ -1,9 +1,9 @@
 {
   "id": 1,
-  "name": "3D Phone",
-  "description": "A realistic 3D model of a phone with detailed textures and interactive elements.",
+  "name": "3D Printer",
+  "description": "A realistic 3D model of a printer with detailed textures and interactive elements.",
   "image": "https://mohdarif8299.github.io/UnityMetaverseObjects/printer.png",
-  "model": "https://example.com/assets/phone.glb",  // Replace with the actual URL of the 3D model
+  "model": "https://example.com/assets/printer.glb",  // Replace with the actual URL of the 3D model
   "properties": {
     "size": {
       "width": 30.0,
